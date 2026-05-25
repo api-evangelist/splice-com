@@ -1,0 +1,90 @@
+aid: splice-com
+name: Splice
+description: >-
+  Splice is a New York-based music creation platform serving producers,
+  songwriters, and audio creators. Its core offerings are Splice Sounds, a
+  catalog of millions of 100% royalty-free samples, one-shots, loops, MIDI
+  patterns, and presets sold through a credit-based subscription; Splice
+  INSTRUMENT, a creator-first virtual instrument with monthly free drops and
+  unlimited premium presets via subscription; and a Rent-to-Own Plugins
+  marketplace offering pay-as-you-go full-license access to 130+ professional
+  VST/AU/AAX plugins from third-party vendors such as Xfer (Serum 2),
+  Arturia (V Collection 11 Pro), Spitfire Audio (Abbey Road Two), and
+  XLN Audio (RC-20). Splice ships a desktop app, a mobile app, the Splice
+  Sounds Plugin (beta) for in-DAW browsing, and native integrations for
+  Ableton Live 12.3+, Studio One Pro 7, Studio Pro 8+, and Pro Tools
+  2025.6+. The revenue model is consumer subscriptions (Sounds+ $12.99/mo,
+  Creator $19.99/mo with 200 credits, Creator+ $39.99/mo with 500 credits,
+  INSTRUMENT $12.99/mo) plus rent-to-own plugin payments. Splice does not
+  publish a public developer API, OpenAPI specification, SDK, or partner
+  program; its GitHub organization at github.com/splice contains internal
+  tooling, GitHub Actions, audio engineering exercises, and forks rather
+  than externally consumable APIs.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Music
+  - Music Production
+  - Royalty-Free Samples
+  - Sample Library
+  - Audio Plugins
+  - VST
+  - Rent-To-Own
+  - Virtual Instruments
+  - MIDI
+  - Presets
+  - DAW
+  - Creator Tools
+  - Audio
+  - Subscription
+url: https://raw.githubusercontent.com/api-evangelist/splice-com/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://splice.com
+  - type: Sounds
+    url: https://splice.com/sounds
+  - type: Search
+    url: https://splice.com/sounds/search/samples
+  - type: Instrument
+    url: https://splice.com/instrument
+  - type: Plugins
+    url: https://splice.com/plugins
+  - type: RentToOwn
+    url: https://splice.com/plugins/rent-to-own
+  - type: SoundsPlugin
+    url: https://splice.com/tools/sounds-plugin
+  - type: DesktopApp
+    url: https://splice.com/download
+  - type: Plans
+    url: https://splice.com/plans
+  - type: Pricing
+    url: https://splice.com/plans
+  - type: Support
+    url: https://splice.com/help
+  - type: Blog
+    url: https://splice.com/blog
+  - type: Careers
+    url: https://splice.com/careers
+  - type: TermsOfService
+    url: https://splice.com/terms
+  - type: PrivacyPolicy
+    url: https://splice.com/privacy
+  - type: GitHubOrganization
+    url: https://github.com/splice
+  - type: Twitter
+    url: https://twitter.com/splice
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/splice
+  - type: YouTube
+    url: https://www.youtube.com/@splice
+  - type: Instagram
+    url: https://www.instagram.com/splice
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
