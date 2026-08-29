@@ -14,6 +14,17 @@ description: Splice is a New York-based music creation platform serving producer
   SDK, or partner program; its GitHub organization at github.com/splice contains internal tooling, GitHub
   Actions, audio engineering exercises, and forks rather than externally consumable APIs.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: approval
